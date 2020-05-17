@@ -1,0 +1,13 @@
+body{
+    width: auto;
+    max-width: 1024px;
+}
+.conteiner{
+    border: 1px solid blue;
+    display: grid;
+    grid-template: ;
+}
+.item{
+    border: 1px solid grey;
+    
+}
